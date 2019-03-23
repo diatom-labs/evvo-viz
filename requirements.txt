@@ -1,1 +1,4 @@
 matplotlib
+Pillow
+numpy
+imageio
